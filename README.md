@@ -10,7 +10,7 @@ The main focus is to understand algorithmic ideas rather than storing individual
 
 Improve competitive programming skills
 
-Build strong problem-solving intuition
+Build strong problem-solving approach
 
 Maintain reusable algorithm templates
 
@@ -24,10 +24,6 @@ Each topic folder contains:
 Clean and optimized code templates
 
 Short explanation comments inside code
-
-Time complexity notes
-
-Common pitfalls and mistakes
 
 
 ## 🚀 Target Users
