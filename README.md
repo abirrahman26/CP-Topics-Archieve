@@ -3,6 +3,7 @@
 
 This repository is a collection of pattern-based Data Structures and Algorithms implementations.
 For that, I have another repo: https://github.com/abirrahman26/Codeforces-Solutions
+https://github.com/abirrahman26/Codechef-Solutions
 
 The main focus is to understand algorithmic ideas rather than storing individual problem solutions.
 
