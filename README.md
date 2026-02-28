@@ -5,7 +5,8 @@ This repository is a collection of pattern-based Data Structures and Algorithms 
 
 The main focus is to understand algorithmic ideas rather than storing individual problem solutions.
 
-🎯 Purpose
+
+## 🎯 Purpose
 
 Improve competitive programming skills
 
@@ -15,7 +16,8 @@ Maintain reusable algorithm templates
 
 Prepare for technical interviews
 
-📂 Repository Style
+
+## 📂 Repository Style
 
 Each topic folder contains:
 
@@ -27,7 +29,8 @@ Time complexity notes
 
 Common pitfalls and mistakes
 
-🚀 Target Users
+
+## 🚀 Target Users
 
 Competitive programming learners
 
